@@ -9,6 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 50458e4a6c62e3b439ea20b827a6622c, type: 3}
-  m_Name: Avoidance
+  m_Script: {fileID: 11500000, guid: 230a26de8b8fe1d489a5bf15a0b19585, type: 3}
+  m_Name: SteeredCohesion
   m_EditorClassIdentifier: 
+  filter: {fileID: 11400000, guid: 3490728391c338042b9940512d827cda, type: 2}
+  agentSmoothTime: 0.5

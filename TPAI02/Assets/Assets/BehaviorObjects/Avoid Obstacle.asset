@@ -9,6 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cb45e74e3d11e1b4ab9c28a6b718fe33, type: 3}
-  m_Name: Cohesion
+  m_Script: {fileID: 11500000, guid: 50458e4a6c62e3b439ea20b827a6622c, type: 3}
+  m_Name: Avoid Obstacle
   m_EditorClassIdentifier: 
+  filter: {fileID: 11400000, guid: 81c042dc639c25c4891c00a6a8d21b5c, type: 2}
