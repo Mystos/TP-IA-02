@@ -1,2 +1,2 @@
 # TP-IA-02
-Boid et FSM
+Essai à l'implémentation d'un systeme de BOIDS
